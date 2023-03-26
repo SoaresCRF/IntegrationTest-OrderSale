@@ -1,2 +1,2 @@
-# PedidoVenda-TesteIntegracao
- Exercicio aula 4 - Teste de sistemas
+# Integration Test - Order Sale
+ Realizar um teste de integração em um  sistema de pedidos de venda  
